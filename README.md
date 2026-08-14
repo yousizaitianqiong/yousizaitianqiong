@@ -13,6 +13,7 @@
 | 项目 | 性质与技术 | 当前状态 |
 | --- | --- | --- |
 | [`yukie-head-pet`](https://github.com/yousizaitianqiong/yukie-head-pet) | 原创旗舰项目；使用 Python、PowerShell 和精灵图工具制作 Codex 桌宠 | [`v1.0.0`](https://github.com/yousizaitianqiong/yukie-head-pet/releases/tag/v1.0.0) 已发布；Linux/Windows CI、可复现打包、隔离安装和素材许可边界均已验证 |
+| [PyGMT PR #4835](https://github.com/GenericMappingTools/pygmt/pull/4835) | 参与 [`GenericMappingTools/pygmt`](https://github.com/GenericMappingTools/pygmt) 的 Python API 维护 | 单文件弃用参数清理已由上游维护者合并；提交前通过 GMT 6.7.0 focused 测试、ruff 和秘密扫描 |
 | [`polygr-pfc`](https://github.com/yousizaitianqiong/polygr-pfc) | [`abhpc/polygr-pfc`](https://github.com/abhpc/polygr-pfc) 的 fork；围绕 C、CUDA、Make 与 Shell 开展科学计算和工具链工作 | 贡献工作保留在 fork 中；不将上游代码声明为原创项目 |
 | [`melody-chibi-trial`](https://github.com/yousizaitianqiong/melody-chibi-trial) | [`C26H52/melody-chibi-trial`](https://github.com/C26H52/melody-chibi-trial) 的 fork；使用 Python 改进 Codex 桌宠资源与打包 | 改进已提交为上游 [`PR #2`](https://github.com/C26H52/melody-chibi-trial/pull/2)，目前等待维护者审阅 |
 
