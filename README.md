@@ -1,6 +1,6 @@
 # 你好，我是 @yousizaitianqiong
 
-我关注**应用视觉 AI、多模态系统和科学计算**，也维护 Codex 桌宠。重视可复现构建、清晰的许可边界和可验证的交付。
+我关注**应用视觉 AI、多模态系统和科学计算**，重视可复现构建、清晰的许可边界和可验证的交付。
 
 [个人作品集](https://yousizaitianqiong.github.io/) · [公开项目](#公开项目) · [开源贡献](#开源贡献)
 
@@ -17,8 +17,8 @@
 
 <a href="https://ghfind.com/u/yousizaitianqiong?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/yousizaitianqiong?theme=dark&amp;lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/yousizaitianqiong?theme=light&amp;lang=zh" alt="ghfind 评分卡，查看 @yousizaitianqiong 的评分详情" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/yousizaitianqiong?variant=strip&amp;theme=dark&amp;lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/yousizaitianqiong?variant=strip&amp;theme=light&amp;lang=zh" alt="ghfind 评分卡，查看 @yousizaitianqiong 的评分详情" width="100%" />
   </picture>
 </a>
 
@@ -49,7 +49,7 @@
 ## 正在验证
 
 - 道路监测的第二模型选择、复核接口和授权范围仍在确认。实际业务的 Dify 编排和真实媒体链路稳定性仍待验证。公开 Demo 已验证 `max_frames <= 8` 的均匀抽帧。
-- 梳理 vLLM 的连续批处理、PagedAttention、KV Cache 和推测解码。相关加速效果仍待实测。
+- 研究 vLLM 的连续批处理、PagedAttention、KV Cache 和推测解码，分析推理吞吐、显存占用与响应延迟的权衡。
 - 整理 GPU/HIP 仿真和 RETFound/PEFT 训练的公开技术记录。GPU 冒烟测试与标注评估使用授权、脱敏或合成样本。尚未发布可复核的性能指标。
 
 ## 其他项目
